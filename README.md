@@ -1,5 +1,3 @@
-# Jamini Roy Dataset Documentation
-
 ## Dataset Overview
 This dataset comprises images related to the famous Indian artist Jamini Roy. It consists of original images alongside AI-generated images created using fine-tuned Stable Diffusion 3, combined with IPAdapter and ControlNet. The dataset is structured into different categories based on the generation method and noise levels.
 
