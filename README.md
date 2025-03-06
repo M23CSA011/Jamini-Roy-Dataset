@@ -1,6 +1,3 @@
-Here is the README file in Markdown code format that you can use:  
-
-```markdown
 # Jamini Roy Dataset Documentation
 
 ## Dataset Overview
@@ -72,4 +69,3 @@ If you use this dataset in your research, please cite:
   publisher = {IEEE DataPort},
   url = {https://github.com/M23CSA011/Jamini-Roy-Dataset}
 }
-```
